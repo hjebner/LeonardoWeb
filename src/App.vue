@@ -143,11 +143,80 @@
             </div>
 
           </div>
-        </div>
-          
+    
+        <!-- Pricing Header-->
+      <div class="w-screen h-screen bg-wheat-500">
+    <div class="text-center lg:text-center lg:mx-36 lg:my-10">
         
+        <h1 class="font-bold uppercase mb-3 lg:text-5xl text-3xl lg:mb-6">Price designed for your production</h1>
+        
+        <h4 class="text-gray-800 text-2xl mb-12 lg:text-4xl italic">QUALITY. EFFICACY. SOUL.</h4>
+    
+    </div>
+        
+          <!-- Box 1  -->
 
-     </div>
+    
+    <div class="flex flex-col md:flex-row px-2 md:px-0 lg:ml-80 lg:p-8">
+        <div class="w-full lg:1/3 md:w-1/3 bg-white rounded-lg shadow hover:shadow-2xl transition duration-100 ease-in-out p-10 md:mr-4 mb-10 md:mb-0">
+            
+            <h3 class="text-black text-2xl uppercase mt-2 border border-black inline-flex rounded p-2 tracking-wider mb-1 hover:bg-black hover:text-white hover:shadow-xl transition duration-150 ease-in-out ">Starter</h3>
+            
+            <p class="text-2xl text-black mt-2 font-thin mb-8 ">You Production is attached to two edition changes.</p>
+            
+            <p class="font-bold text-black text-4xl">$150/Beat</p>
+            
+            <p class="text-black mt-2 italic font-light">$50 extra after the second edition</p>
+            
+            <p class="text-4xl text-black mt-8">Top Features</p>
+
+            <div class="text-sm text-black mt-4">
+                
+                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Professional Beat Desing</p>
+
+                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Mastering: Beat and Voice</p>
+
+                 <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Social Media and Music platform managment</p>    
+          </div>    
+            <button class="w-full text-xl text-black border border-black rounded hover:bg-black hover:text-white hover:shadow-xl py-4 mt-4 uppercase tracking-widest transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105">Start your production</button>
+        
+          </div>
+
+          <!-- Box 2 -->
+        
+         <div class="w-full lg:1/3 md:w-1/3 bg-black rounded-lg shadow hover:shadow-2xl transition duration-100 ease-in-out p-10 md:mr-4 mb-10 md:mb-0 lg:ml-64">
+            
+            <h3 class="text-white text-2xl uppercase mt-2 border border-white inline-flex rounded p-2 tracking-wider mb-1 hover:bg-wheat-500 hover:text-black hover:shadow-xl transition duration-150 ease-in-out">Starter</h3>
+            
+            <p class="text-2xl text-white mt-2 font-thin mb-8 ">You Production is attached to two edition changes.</p>
+            
+            <p class="font-bold text-white text-4xl">$150/Beat</p>
+            
+            <p class="text-white mt-2 italic font-light">$50 extra after the second edition</p>
+            
+            <p class="text-4xl text-white mt-8">Top Features</p>
+
+            <div class="text-sm text-white mt-4">
+                
+                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Professional Beat Desing</p>
+
+                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Mastering: Beat and Voice</p>
+
+                 <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Social Media and Music platform managment</p>    
+          </div>    
+            <button class="w-full text-xl text-white border border-white hover:border-wheat-500 rounded hover:bg-wheat-500 hover:text-black hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 py-4 mt-4 uppercase tracking-widest">Start your production</button>
+        
+          </div>
+    </div>
+</div>
+
+        </div>    
+      </div>
+
+      
+     
+   
+    
 </template>
 
 <style scoped>
