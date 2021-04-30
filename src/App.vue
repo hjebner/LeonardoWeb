@@ -62,30 +62,30 @@
                
           <div class="flex flex-wrap my-20 justify-around font-oswald mt-4">
               <!-- Cuadro 1 Oriana -->
-          <div class="mb-10">
-            <div class="w-96 my-2 mb-10 bg-woodsmoke-500 h-42 text-white md:mt-10 lg:mt-24">
-                <div class=" mb-8 p-3 ">
+          <div class="mb-10 mx-1">
+            <div class="lg:w-96 lg:my-2 mb-10 bg-woodsmoke-500 h-42 text-white md:mt-10 lg:mt-24">
+                <div class="mb-8 p-3">
                   <div class="font-bold text-3xl mb-4 uppercase">Voices Recording</div>
                   <p class="text-xl font-thin italic">Very high voice recording quality with second and third voices in the project. </p>
                 </div>
             </div>
-
-            <div class="max-w-sm my-4 bg-white w-full md:mb-2">
-                <div class="imgSize flex-none bg-cover  overflow-hidden" style="background-image: url('/img/oriana.jpg')"></div>
+            <div class="md:mb-0">
+            <div class="my-4 bg-white lg:w-full md:my-0">
+                <div class="imgSize flex-none bg-cover md:bg-center" style="background-image: url('/img/oriana.jpg')"></div>
                 <div class="mb-8 p-3">
                   <div class="text-gray-900 font-bold text-2xl mb-2">Gudnana </div>
                   <p class="text-black text-xl tex font-thin italic">Singer, Composer and musician.</p> 
                     <p class="text-black text-xl font-thin italic">Pop, Reggaeton and Indi</p>
                 </div>
             </div>
-
+            </div>
           </div>
 
           <!-- Cuadro 2 -->
           
-          <div class="md:mb-0 lg:mt-16 ">
-            <div class="max-w-sm my-4 bg-white w-full md:mt-0 md:mb-0">
-                <div class="imgSize flex-none bg-cover overflow-hidden" style="background-image: url('/img/halex.jpg')"></div>
+          <div class="md:mb-0 lg:mt-16 mx-2">
+            <div class="my-4 bg-white lg:w-full md:my-0 ">
+                <div class="imgSize flex-none bg-cover" style="background-image: url('/img/halex.jpg')"></div>
                 <div class="mb-8 p-3">
                   <div class="font-bold text-2xl mb-4">Halex Music</div>
                   <p class="text-black text-xl font-thin italic">Singer, Composer and Image Designer.</p> 
@@ -93,8 +93,8 @@
                 </div>
             </div>
             
-            <div class="w-96 my-10 bg-woodsmoke-500 h-42 text-white md:mt-1">
-                <div class="mb-8 p-3">
+            <div class="lg:mx-4 lg:w-96 lg:my-10 bg-woodsmoke-500 h-42 text-white md:mt-1">
+                <div class="lg:mb-8 p-3 ">
                   <div class="font-bold text-3xl mb-4 uppercase">Beat Maker</div>
                   <p class="text-xl font-thin italic">With a huge varierity of beats and rhythims to create your dream song. </p>
                 </div>
@@ -103,16 +103,16 @@
           </div>
           <!-- Cuadro 3 -->
 
-          <div class="mb-14">
-            <div class="w-96 my-4 mb-10 bg-woodsmoke-500 h-42 text-white md:mt-4 lg:mt-24">
-                <div class="mb-8 p-3 ">
+          <div class="lg:mb-14">
+            <div class="mx-4 lg:w-96 lg:my-4 lg:mb-10 bg-woodsmoke-500 h-42 text-white md:mt-4 lg:mt-24">
+                <div class="lg:mb-8 p-3 md:mx-3">
                   <div class="font-bold text-3xl mb-4 uppercase">Genre Manager</div>
                   <p class="text-xl font-thin italic">Personalized advising of music gerne and grove manager to ensure the best results with your talent. </p>
                 </div>
             </div>
 
-            <div class="max-w-sm my-4 bg-white w-full">
-                <div class="imgSize flex-none bg-cover overflow-hidden" style="background-image: url('/img/juanmi.jpg')"></div>
+            <div class="mx-2 my-4 bg-white lg:w-full">
+                <div class="imgSize flex-none bg-cover" style="background-image: url('/img/juanmi.jpg')"></div>
                 <div class="mb-8 p-3">
                   <div class="text-gray-900 font-bold text-2xl mb-2">Juanmi </div>
                   <p class="text-black text-xl tex font-thin italic">Singer and  Composer.</p> 
@@ -126,8 +126,8 @@
          <!-- Cuadro 4 -->
 
       <div class="lg:mt-16">
-          <div class="max-w-sm my-4 bg-white w-full md:mt-0">
-                <div class="imgSize flex-none bg-cover overflow-hidden" style="background-image: url('/img/image3.jpeg')"></div>
+          <div class="mx-2 lg:my-4 bg-white lg:w-full md:mt-0">
+                <div class="imgSize flex-none bg-cover" style="background-image: url('/img/image3.jpeg')"></div>
                 <div class="mb-8 p-3">
                   <div class="font-bold text-2xl mb-2">Leonardo Scirica</div>
                   <p class="text-black text-xl font-thin italic"> Music producer, Beat Maker and Singer.</p> 
@@ -135,7 +135,7 @@
                 </div>
             </div>
             
-            <div class="w-96 my-10 bg-woodsmoke-500 h-42 text-white ">
+            <div class="mx-4 lg:w-96 lg:my-10 bg-woodsmoke-500 h-42 text-white ">
                 <div class="mb-8 p-3 ">
                   <div class="font-bold text-3xl mb-4 uppercase">All-in-One</div>
                   <p class="text-xl font-thin italic">From the designing of your Idea until the production of your beat, the voice recording, mastering and social media manager, you have a All-in-One producer!</p>
@@ -145,8 +145,8 @@
           </div>
     
         <!-- Pricing Header-->
-      <div class="w-screen h-screen bg-wheat-500">
-    <div class="text-center lg:text-center lg:mx-36 lg:my-10">
+      <div class="lg:w-full lg:h-full bg-wheat-500">
+    <div class="text-center lg:text-center mt-8 lg:mx-36 lg:my-10">
         
         <h1 class="font-bold uppercase mb-3 lg:text-5xl text-3xl lg:mb-6">Price designed for your production</h1>
         
@@ -157,10 +157,10 @@
           <!-- Box 1  -->
 
     
-    <div class="flex flex-col md:flex-row px-2 md:px-0 lg:ml-80 lg:p-8">
+    <div class="flex flex-col lg:w-5/6 lg:justify-self-center lg:mx-64 md:flex-row px-2 md:px-0 lg:p-8">
         <div class="w-full lg:1/3 md:w-1/3 bg-white rounded-lg shadow hover:shadow-2xl transition duration-100 ease-in-out p-10 md:mr-4 mb-10 md:mb-0">
             
-            <h3 class="text-black text-2xl uppercase mt-2 border border-black inline-flex rounded p-2 tracking-wider mb-1 hover:bg-black hover:text-white hover:shadow-xl transition duration-150 ease-in-out ">Starter</h3>
+            <h3 class="text-black text-2xl uppercase lg:mt-2 border border-black inline-flex rounded p-2 tracking-wider lg:mb-1 hover:bg-black hover:text-white hover:shadow-xl transition duration-150 ease-in-out ">Starter</h3>
             
             <p class="text-2xl text-black mt-2 font-thin mb-8 ">You Production is attached to two edition changes.</p>
             
@@ -172,11 +172,11 @@
 
             <div class="text-sm text-black mt-4">
                 
-                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Professional Beat Desing</p>
+                <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Professional Beat Desing</p>
 
-                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Mastering: Beat and Voice</p>
+                <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Mastering: Beat and Voice</p>
 
-                 <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Social Media and Music platform managment</p>    
+                 <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1"></span> Social Media and Music platform managment</p>    
           </div>    
             <button class="w-full text-xl text-black border border-black rounded hover:bg-black hover:text-white hover:shadow-xl py-4 mt-4 uppercase tracking-widest transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105">Start your production</button>
         
@@ -186,11 +186,11 @@
         
          <div class="w-full lg:1/3 md:w-1/3 bg-black rounded-lg shadow hover:shadow-2xl transition duration-100 ease-in-out p-10 md:mr-4 mb-10 md:mb-0 lg:ml-64">
             
-            <h3 class="text-white text-2xl uppercase mt-2 border border-white inline-flex rounded p-2 tracking-wider mb-1 hover:bg-wheat-500 hover:text-black hover:shadow-xl transition duration-150 ease-in-out">Starter</h3>
+            <h3 class="text-white text-2xl uppercase mt-2 border border-white inline-flex rounded p-2 tracking-wider mb-1 hover:bg-wheat-500 hover:text-black hover:shadow-xl transition duration-150 ease-in-out">Advanced</h3>
             
             <p class="text-2xl text-white mt-2 font-thin mb-8 ">You Production is attached to two edition changes.</p>
             
-            <p class="font-bold text-white text-4xl">$150/Beat</p>
+            <p class="font-bold text-white text-4xl">$250/Beat</p>
             
             <p class="text-white mt-2 italic font-light">$50 extra after the second edition</p>
             
@@ -198,19 +198,29 @@
 
             <div class="text-sm text-white mt-4">
                 
-                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Professional Beat Desing</p>
+                <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Professional Beat Desing</p>
 
-                <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Mastering: Beat and Voice</p>
+                <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Mastering: Beat and Voice</p>
 
-                 <p class="my-6 mx-4 text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Social Media and Music platform managment</p>    
+                 <p class="my-6 mx-4 text-xl lg:text-2xl font-light"><span class="fa fa-check-circle mr-2 ml-1 text-wheat-500"></span> Social Media and Music platform managment</p>    
           </div>    
             <button class="w-full text-xl text-white border border-white hover:border-wheat-500 rounded hover:bg-wheat-500 hover:text-black hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105 py-4 mt-4 uppercase tracking-widest">Start your production</button>
         
-          </div>
-    </div>
-</div>
-
-        </div>    
+        </div>
+          
+        </div>
+           <div class="flex justify-center ">
+           <button class="px-6 py-2 mb-8 lg:w-5/6  bg-black text-white border border-black hover:border-wheat-500 rounded hover:bg-smokewood-500 hover:text-white hover:shadow-xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 lg:py-8 lg:mb-12 uppercase tracking-widest">
+           <div class="block">
+           
+           <div class="flex justify-center mb-2 lg:flex flex-wrap lg:justify-start lg:text-2xl lg:ml-44">Custom Work</div>
+           <div class="flex lg:justify-start text-sm lg:flex lg:text-2xl lg:ml-16 text-wheat-500 italic font-thin lg:mt-1">Do you want a Personalized work?</div>
+           <div class="mt-2 lg:flex lg:absolute inset-y-0 right-0 lg:justify-end lg:text-3xl lg:mr-20 lg:mt-12 white hover:text-wheat-500 ">Contact Me</div>
+           </div>
+           </button>
+          </div>                     
+      </div>
+      </div>    
       </div>
 
       
