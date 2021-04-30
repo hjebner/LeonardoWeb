@@ -220,8 +220,87 @@
            </button>
           </div>                     
       </div>
-      </div>    
+
+       <!-- About Section -->
+    <div class="bg-smokewood-500 w-full">
+      <section class="relative py-20 bg-black text-white">
+        <div class="container mx-auto px-4">
+          <div class="items-center flex flex-wrap">
+            <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
+              <img class="max-w-full rounded-sm shadow-lg" src="../public/img/image8.jpeg"/>
+            </div>
+            
+            <div
+              class="w-full md:w-5/12 ml-auto mr-auto px-4">
+              <div class="md:pr-12">
+                
+                <h1 class="font-bold text-white inset-y-0 right-32  uppercase mb-3 lg:text-9xl text-3xl lg:mb-6">Let's make something together</h1>
+        
+                <h4 class="lg:inset-y-0 lg:right-64 lg:mt-4 text-wheat-500 text-2xl mb-12 lg:text-3xl italic">I also collaborate with others DJ's, Producers and Beatmakers</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       </div>
+
+      <!-- Contact Form -->
+      <div class="flex lg:w-screen lg:h-screen bg-white justify-center">
+              <div class="relative flex flex-col break-words w-5/6 mb-6 shadow-lg rounded-md bg-black  mt-24">
+                <div class="flex-auto text-center mt-10 p-5 lg:p-10 bg-orange-500 text-white">
+                  <h4 class="text-5xl font-bold uppercase tracking-wider">Personalized Work</h4>
+                  <p class="leading-relaxed mt-1 mb-4 text-center">
+                    Complete this form and we will get back to you in 24 hours.
+                  </p>
+                  
+                  <div class="relative w-full mb-3 mt-8">
+                    <label class="block uppercase text-xs font-bold mb-2" for="full-name">Full Name</label>
+                    <input type="text"
+                      class="px-3 py-3 placeholder-black bg-white text-black rounded text-sm shadow focus:outline-none focus:shadow-outline w-full" placeholder="Full Name" style="transition: all 0.15s ease 0s"/>
+                  </div>
+
+                  <div class="relative w-full mb-3">
+                    <label
+                      class="block uppercase text-xs font-bold mb-2"
+                      for="email"
+                      >Email</label
+                    ><input
+                      type="email"
+                      class="px-3 py-3 placeholder-black bg-white text-black rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
+                      placeholder="Email"
+                      style="transition: all 0.65s ease 0s"
+                    />
+                  </div>
+                  <div class="relative w-full mb-3">
+                    <label
+                      class="block uppercase text-xs font-bold mb-2"
+                      for="message"
+                      >Message</label
+                    ><textarea
+                      rows="4"
+                      cols="80"
+                      class="px-3 py-3 placeholder-black bg-white text-black rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
+                      placeholder="Type a message..."
+                    ></textarea>
+                  </div>
+                  <div class="text-center mt-6">
+                    <button
+                      class="bg-white text-black text-md font-bold uppercase px-10 py-4 lg:text-xl rounded transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-115 mt-4 tracking-widest"
+                      type="button"
+                      style="transition: all 0.65s ease 0s"
+                    >
+                      Send Message
+                    </button>
+                  </div>
+                </div>
+            </div>
+        </div>      
+      </div> 
+    
+
+
+   
+</div>
 
       
      
@@ -242,5 +321,7 @@
 }
 
 </style>
+
+
 
 
